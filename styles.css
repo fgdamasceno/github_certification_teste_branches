@@ -18,15 +18,16 @@ h1 {
 }
 
 figure {
-  display: flex;
-  flex-direction: column;
+  width: 90%;
 }
 
-figcaption {
+p {
   padding: 30px;
   text-align: center;
 }
 
 img {
   border-radius: 15px;
+  width: 30%;
+  margin: 10px;
 }
